@@ -1,9 +1,3 @@
-
-'''
-Temi Adebowale  4/16/23 
-This program implements neural network with forward and back propgation algorithms to train the prgroam to recognize digits
-'''
-
 #Imports needed for math symbols and randomness
 import random 
 import math
